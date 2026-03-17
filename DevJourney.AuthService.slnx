@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DevJourney.AuthService.API/DevJourney.AuthService.Api.csproj" />
+  <Project Path="DevJourney.AuthService.Application/DevJourney.AuthService.Application.csproj" />
+  <Project Path="DevJourney.AuthService.Domain/DevJourney.AuthService.Domain.csproj" />
+  <Project Path="DevJourney.AuthService.Infrastructure/DevJourney.AuthService.Infrastructure.csproj" />
+  <Project Path="DevJourney.AuthService.Tests/DevJourney.AuthService.Tests.csproj" />
+</Solution>
