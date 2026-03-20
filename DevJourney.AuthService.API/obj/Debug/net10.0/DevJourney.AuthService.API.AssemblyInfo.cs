@@ -12,12 +12,12 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("30f653ef-c275-47e7-b769-eac5462e5f14")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("DevJourney.AuthService.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DevJourney.AuthService.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("DevJourney.AuthService.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DevJourney.AuthService.API")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c0fbfeaf3992c81e17d8a721a83a94020fdd102")]
+[assembly: System.Reflection.AssemblyProductAttribute("DevJourney.AuthService.Api")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DevJourney.AuthService.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

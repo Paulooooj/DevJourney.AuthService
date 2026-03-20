@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".env" />
+    <File Path=".gitignore" />
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Project Path="DevJourney.AuthService.API/DevJourney.AuthService.Api.csproj" />
   <Project Path="DevJourney.AuthService.Application/DevJourney.AuthService.Application.csproj" />
   <Project Path="DevJourney.AuthService.Domain/DevJourney.AuthService.Domain.csproj" />

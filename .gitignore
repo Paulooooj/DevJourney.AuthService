@@ -1,0 +1,28 @@
+# Build directories
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code opcional
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# App settings locais
+**/appsettings.Development.json
+**/appsettings.Local.json
+
+# Test / coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
